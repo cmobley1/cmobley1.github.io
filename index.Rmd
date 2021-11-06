@@ -1,0 +1,19 @@
+---
+title: "Claire's Website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Introduction
+
+Hello, my name is Claire Mobley. I am 23 years old and currently attending the Mailman School of Public Health studying Epidemiology with a certificate in Comparative Effectiveness and Outcomes Research. I am interested in Health Economics and Outcomes Research consulting after I complete my master's program. Outside of the classroom, I enjoy hiking, solving crossword puzzles, and traveling to new places!
+
+# Github Link 
+
+- [GitHub account](https://github.com/cmobley1)
+
+# Link to new page within my site
+
+- [Resume](resume.html)

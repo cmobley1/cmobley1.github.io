@@ -1,0 +1,15 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<cm4070@cumc.columbia.edu.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/cmobley1/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/claire-mobley-84a2931aa/
+    
+output:
+  html_document:
+    theme: cerulean

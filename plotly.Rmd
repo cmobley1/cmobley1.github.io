@@ -1,0 +1,13 @@
+---
+title: "Plotly examples"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Examples of plotly
+
+We're going to look at the `Instacart` data 
+
+
